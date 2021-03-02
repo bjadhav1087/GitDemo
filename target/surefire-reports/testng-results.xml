@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="92" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="92" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+      <class name="qaclickacadamy.mavenjava.seleniumTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:qaclickacadamy.mavenjava.seleniumTest@1f57539]" name="test1" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:qaclickacadamy.mavenjava.seleniumTest@1f57539]" name="test2" duration-ms="1" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- qaclickacadamy.mavenjava.seleniumTest -->
+      <class name="qaclickacadamy.mavenjava.appiumTest">
+        <test-method status="PASS" signature="mobileTest()[pri:0, instance:qaclickacadamy.mavenjava.appiumTest@e320068]" name="mobileTest" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest -->
+        <test-method status="PASS" signature="mobileTest1()[pri:0, instance:qaclickacadamy.mavenjava.appiumTest@e320068]" name="mobileTest1" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest1 -->
+        <test-method status="PASS" signature="mobileTest2()[pri:0, instance:qaclickacadamy.mavenjava.appiumTest@e320068]" name="mobileTest2" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTest2 -->
+      </class> <!-- qaclickacadamy.mavenjava.appiumTest -->
+      <class name="qaclickacadamy.mavenjava.ResrAPITest">
+        <test-method status="PASS" signature="restAPI()[pri:0, instance:qaclickacadamy.mavenjava.ResrAPITest@536aaa8d]" name="restAPI" duration-ms="13" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI -->
+        <test-method status="PASS" signature="restAPI1()[pri:0, instance:qaclickacadamy.mavenjava.ResrAPITest@536aaa8d]" name="restAPI1" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI1 -->
+        <test-method status="PASS" signature="restAPI2()[pri:0, instance:qaclickacadamy.mavenjava.ResrAPITest@536aaa8d]" name="restAPI2" duration-ms="0" started-at="2021-02-09T15:16:21 IST" finished-at="2021-02-09T15:16:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPI2 -->
+      </class> <!-- qaclickacadamy.mavenjava.ResrAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
